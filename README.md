@@ -1,4 +1,4 @@
-OUTPUTS LINKS :-
+OUTPUT LINKS :-
                                                                                                                                                                                                                 
 1. Home Page :  https://github.com/shivaprasadrk/CollegeFeeManagementSystem/blob/main/Outputs/index.png
                                                                                                                                            
